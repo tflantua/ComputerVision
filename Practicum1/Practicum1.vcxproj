@@ -142,11 +142,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DrawShapesAndText.cpp" />
     <ClCompile Include="Helloworld.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="ResizeAndRoi.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DrawShapesAndText.h" />
     <ClInclude Include="HelloWorld.h" />
     <ClInclude Include="ResizeAndRoi.h" />
   </ItemGroup>

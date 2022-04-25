@@ -1,7 +1,9 @@
 #include <iostream>
 #include "HelloWorld.h"
 #include "ResizeAndRoi.h"
+#include "DrawShapesAndText.h"
+
 int main()
 {
-    ResizeAndRoi_main();
+    DrawShapesAndText_main();
 }
