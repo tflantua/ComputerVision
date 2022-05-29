@@ -2,8 +2,10 @@
 #include "HelloWorld.h"
 #include "ResizeAndRoi.h"
 #include "DrawShapesAndText.h"
+#include "eindopdracht.h"
 
 int main()
 {
-    DrawShapesAndText_main();
+    eindopdracht_start();
+    //DrawShapesAndText_main();
 }

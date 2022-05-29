@@ -27,6 +27,9 @@
     <ClCompile Include="DrawShapesAndText.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="eindopdracht.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HelloWorld.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DrawShapesAndText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="eindopdracht.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
